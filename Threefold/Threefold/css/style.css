@@ -1,0 +1,11 @@
+.modaal-gallery-item img {
+    width: 100% !important;
+}
+
+.nav-toggle span:before, .nav-toggle span:after {
+    background-color: #005ca8;    
+}
+
+#nav-toggle {
+    cursor: pointer;
+}
